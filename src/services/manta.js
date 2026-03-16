@@ -1,8 +1,8 @@
 import { MantaClient } from "mantahq-sdk";
 
-const BASE_URL = import.meta.env.API;
+const BASE_URL = import.meta.env.VITE_API;
 
-const sdkKey = import.meta.env.BOOKING_SDK;
+const sdkKey = import.meta.env.VITE_BOOKING_SDK;
 
 if (!sdkKey) {
   console.error(
