@@ -99,7 +99,7 @@
 </template>
 
 <script setup>
-import { computed } from "vue";
+import { computed, onMounted } from "vue";
 import { useRouter } from "vue-router";
 import Navbar from "../components/Navbar.vue";
 
@@ -107,9 +107,9 @@ const router = useRouter();
 
 const isAuthenticated = computed(() => !!localStorage.getItem("user_token"));
 
-const goToSignup = () => router.push("/signup");
-const goToLogin = () => router.push("/login");
-const goToExplore = () => router.push("/login");
+// const goToSignup = () => router.push("/signup");
+// const goToLogin = () => router.push("/login");
+// const goToExplore = () => router.push("/login");
 
 const goToStart = () => {
   if (isAuthenticated.value) {
@@ -122,6 +122,12 @@ const goToStart = () => {
 const scrollToFeatures = () => {
   document.getElementById("features")?.scrollIntoView({ behavior: "smooth" });
 };
+
+onMounted(()=>{
+  if(isAuthenticated.value){
+    router.push('/home')
+  }
+})
 </script>
 
 <style scoped>
