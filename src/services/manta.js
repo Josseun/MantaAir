@@ -2,9 +2,15 @@ import { MantaClient } from "mantahq-sdk";
 
 const BASE_URL = import.meta.env.VITE_API;
 
-const mantaSDK = new MantaClient({
-  sdkKey: import.meta.env.VITE_BOOKING_SDK,
-});
+const sdkKey = import.meta.env.VITE_BOOKING_SDK;
+
+if (!sdkKey) {
+  console.error(
+    "⚠️ VITE_BOOKING_SDK is missing — check your deployment env vars",
+  );
+}
+
+const mantaSDK = new MantaClient(sdkKey);
 
 export const manta = {
   async signup(data) {
