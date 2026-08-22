@@ -158,6 +158,7 @@
               <input
                 v-model="form.dob"
                 type="date"
+                :max="maxBirthDate"
                 class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl text-sm font-medium text-slate-800 outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all"
               />
             </div>
@@ -269,6 +270,7 @@ const form = ref({
 const isLoading = ref(false);
 const errorMessage = ref("");
 const successMessage = ref("");
+const maxBirthDate = computed(() => new Date().toISOString().split("T")[0]);
 
 onMounted(() => {
   const stored = sessionStorage.getItem("selectedFlight");

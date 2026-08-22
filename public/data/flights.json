@@ -1,0 +1,3925 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itineraries": [
+        {
+          "duration": "PT5H55M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T13:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "792",
+              "duration": "PT6H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "380.48"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "2",
+      "itineraries": [
+        {
+          "duration": "PT5H46M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T08:15:00"
+              },
+              "carrierCode": "VS",
+              "number": "716",
+              "duration": "PT6H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "329.64"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "3",
+      "itineraries": [
+        {
+          "duration": "PT6H13M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T17:45:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T21:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "928",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T23:45:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T01:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "990",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "458.83"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "4",
+      "itineraries": [
+        {
+          "duration": "PT6H4M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T10:30:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T13:30:00"
+              },
+              "carrierCode": "BA",
+              "number": "194",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T14:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T17:30:00"
+              },
+              "carrierCode": "BA",
+              "number": "489",
+              "duration": "PT3H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "468.91"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "5",
+      "itineraries": [
+        {
+          "duration": "PT6H59M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:45:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T04:45:00"
+              },
+              "carrierCode": "VS",
+              "number": "665",
+              "duration": "PT3H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T05:45:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T08:45:00"
+              },
+              "carrierCode": "VS",
+              "number": "400",
+              "duration": "PT3H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "449.18"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "6",
+      "itineraries": [
+        {
+          "duration": "PT7H33M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T21:15:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T23:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "987",
+              "duration": "PT2H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T00:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T04:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "203",
+              "duration": "PT4H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "337.54"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "7",
+      "itineraries": [
+        {
+          "duration": "PT5H48M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T05:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T11:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "786",
+              "duration": "PT6H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "497.33"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "8",
+      "itineraries": [
+        {
+          "duration": "PT6H58M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:15:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T21:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "573",
+              "duration": "PT2H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T22:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T02:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "488",
+              "duration": "PT4H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "458.44"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "9",
+      "itineraries": [
+        {
+          "duration": "PT9H29M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T09:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "941",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T10:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T12:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "510",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T14:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T16:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "374",
+              "duration": "PT2H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "466.83"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "10",
+      "itineraries": [
+        {
+          "duration": "PT5H53M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T10:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T16:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "505",
+              "duration": "PT6H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "506.16"
+      },
+      "numberOfBookableSeats": 8
+    },
+    {
+      "id": "11",
+      "itineraries": [
+        {
+          "duration": "PT5H55M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T17:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T23:30:00"
+              },
+              "carrierCode": "BA",
+              "number": "538",
+              "duration": "PT6H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "374.55"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "12",
+      "itineraries": [
+        {
+          "duration": "PT7H45M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:00:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T04:00:00"
+              },
+              "carrierCode": "BA",
+              "number": "263",
+              "duration": "PT2H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T07:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T11:00:00"
+              },
+              "carrierCode": "BA",
+              "number": "911",
+              "duration": "PT4H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "429.49"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "13",
+      "itineraries": [
+        {
+          "duration": "PT8H1M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T14:30:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T16:30:00"
+              },
+              "carrierCode": "VS",
+              "number": "838",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T19:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T23:30:00"
+              },
+              "carrierCode": "VS",
+              "number": "217",
+              "duration": "PT4H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "402.76"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "14",
+      "itineraries": [
+        {
+          "duration": "PT6H4M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T09:45:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T11:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "996",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T14:45:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T18:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "836",
+              "duration": "PT4H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "394.10"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "15",
+      "itineraries": [
+        {
+          "duration": "PT9H29M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T03:30:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T07:30:00"
+              },
+              "carrierCode": "BA",
+              "number": "303",
+              "duration": "PT4H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T10:30:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T11:30:00"
+              },
+              "carrierCode": "BA",
+              "number": "880",
+              "duration": "PT1H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T13:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T14:30:00"
+              },
+              "carrierCode": "BA",
+              "number": "265",
+              "duration": "PT1H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "429.11"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "16",
+      "itineraries": [
+        {
+          "duration": "PT7H53M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T21:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "999",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T23:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T01:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "345",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T03:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T05:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "159",
+              "duration": "PT2H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "514.97"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "17",
+      "itineraries": [
+        {
+          "duration": "PT10H6M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T15:00:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T19:00:00"
+              },
+              "carrierCode": "BA",
+              "number": "231",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T20:00:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T21:00:00"
+              },
+              "carrierCode": "BA",
+              "number": "662",
+              "duration": "PT1H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T23:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T00:00:00"
+              },
+              "carrierCode": "BA",
+              "number": "269",
+              "duration": "PT1H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "340.90"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "18",
+      "itineraries": [
+        {
+          "duration": "PT7H24M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T06:15:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T09:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "765",
+              "duration": "PT3H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T12:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T15:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "482",
+              "duration": "PT3H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "411.44"
+      },
+      "numberOfBookableSeats": 8
+    },
+    {
+      "id": "19",
+      "itineraries": [
+        {
+          "duration": "PT7H13M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:00:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T11:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "335",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T14:00:00"
+              },
+              "arrival": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T15:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "107",
+              "duration": "PT1H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T16:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T17:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "172",
+              "duration": "PT1H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "348.29"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "20",
+      "itineraries": [
+        {
+          "duration": "PT5H47M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T08:15:00"
+              },
+              "carrierCode": "BA",
+              "number": "597",
+              "duration": "PT6H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "502.66"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "21",
+      "itineraries": [
+        {
+          "duration": "PT6H16M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T18:45:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T21:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "294",
+              "duration": "PT3H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T23:45:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T02:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "196",
+              "duration": "PT3H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "518.52"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "22",
+      "itineraries": [
+        {
+          "duration": "PT7H18M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T14:00:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T18:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "162",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T19:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T21:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "512",
+              "duration": "PT2H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "411.53"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "23",
+      "itineraries": [
+        {
+          "duration": "PT6H19M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T06:45:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T08:45:00"
+              },
+              "carrierCode": "BA",
+              "number": "573",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T10:45:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T12:45:00"
+              },
+              "carrierCode": "BA",
+              "number": "553",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T13:45:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T15:45:00"
+              },
+              "carrierCode": "BA",
+              "number": "927",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "374.97"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "24",
+      "itineraries": [
+        {
+          "duration": "PT5H58M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T00:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T06:00:00"
+              },
+              "carrierCode": "QR",
+              "number": "969",
+              "duration": "PT6H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "531.85"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "25",
+      "itineraries": [
+        {
+          "duration": "PT5H44M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T12:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T18:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "102",
+              "duration": "PT6H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "423.60"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "26",
+      "itineraries": [
+        {
+          "duration": "PT5H44M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T22:45:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T04:45:00"
+              },
+              "carrierCode": "VS",
+              "number": "403",
+              "duration": "PT6H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "382.62"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "27",
+      "itineraries": [
+        {
+          "duration": "PT5H57M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T05:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "614",
+              "duration": "PT4H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T07:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T08:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "158",
+              "duration": "PT1H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T09:30:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T10:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "620",
+              "duration": "PT1H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "476.77"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "28",
+      "itineraries": [
+        {
+          "duration": "PT7H31M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T21:15:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T01:15:00"
+              },
+              "carrierCode": "BA",
+              "number": "692",
+              "duration": "PT4H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T02:15:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T03:15:00"
+              },
+              "carrierCode": "BA",
+              "number": "734",
+              "duration": "PT1H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T04:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T05:15:00"
+              },
+              "carrierCode": "BA",
+              "number": "183",
+              "duration": "PT1H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "447.36"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "29",
+      "itineraries": [
+        {
+          "duration": "PT7H18M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T08:15:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T11:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "371",
+              "duration": "PT3H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T12:15:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T15:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "505",
+              "duration": "PT3H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "432.26"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "30",
+      "itineraries": [
+        {
+          "duration": "PT6H47M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:00:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T06:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "175",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T07:00:00"
+              },
+              "arrival": {
+                "iataCode": "LHR",
+                "at": "2026-06-15T09:00:00"
+              },
+              "carrierCode": "VS",
+              "number": "650",
+              "duration": "PT2H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "418.56"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "31",
+      "itineraries": [
+        {
+          "duration": "PT10H36M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T18:30:00"
+              },
+              "carrierCode": "UA",
+              "number": "548",
+              "duration": "PT11H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "1000.86"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "32",
+      "itineraries": [
+        {
+          "duration": "PT13H23M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T20:00:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T00:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "779",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T02:00:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T09:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "206",
+              "duration": "PT7H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "1043.34"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "33",
+      "itineraries": [
+        {
+          "duration": "PT10H36M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T04:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T15:30:00"
+              },
+              "carrierCode": "DL",
+              "number": "315",
+              "duration": "PT11H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "943.75"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "34",
+      "itineraries": [
+        {
+          "duration": "PT10H35M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T16:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T03:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "966",
+              "duration": "PT11H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "989.33"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "35",
+      "itineraries": [
+        {
+          "duration": "PT10H38M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:00:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T12:00:00"
+              },
+              "carrierCode": "UA",
+              "number": "233",
+              "duration": "PT11H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "979.61"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "36",
+      "itineraries": [
+        {
+          "duration": "PT10H30M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T13:00:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T00:00:00"
+              },
+              "carrierCode": "UA",
+              "number": "807",
+              "duration": "PT11H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "865.07"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "37",
+      "itineraries": [
+        {
+          "duration": "PT11H0M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T04:45:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T07:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "915",
+              "duration": "PT3H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T09:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T17:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "981",
+              "duration": "PT8H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "877.79"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "38",
+      "itineraries": [
+        {
+          "duration": "PT13H22M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T21:00:00"
+              },
+              "arrival": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T01:00:00"
+              },
+              "carrierCode": "DL",
+              "number": "735",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T03:00:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T06:00:00"
+              },
+              "carrierCode": "DL",
+              "number": "342",
+              "duration": "PT3H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T07:00:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T11:00:00"
+              },
+              "carrierCode": "DL",
+              "number": "985",
+              "duration": "PT4H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "918.85"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "39",
+      "itineraries": [
+        {
+          "duration": "PT16H31M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T00:15:00"
+              },
+              "arrival": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T03:15:00"
+              },
+              "carrierCode": "DL",
+              "number": "921",
+              "duration": "PT3H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T05:15:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T09:15:00"
+              },
+              "carrierCode": "DL",
+              "number": "373",
+              "duration": "PT4H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T10:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T14:15:00"
+              },
+              "carrierCode": "DL",
+              "number": "263",
+              "duration": "PT4H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "1001.08"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "40",
+      "itineraries": [
+        {
+          "duration": "PT14H2M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:15:00"
+              },
+              "arrival": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T10:15:00"
+              },
+              "carrierCode": "DL",
+              "number": "412",
+              "duration": "PT3H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T12:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T20:15:00"
+              },
+              "carrierCode": "DL",
+              "number": "940",
+              "duration": "PT8H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "991.67"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "41",
+      "itineraries": [
+        {
+          "duration": "PT10H55M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T10:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T21:30:00"
+              },
+              "carrierCode": "TK",
+              "number": "891",
+              "duration": "PT11H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "717.17"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "42",
+      "itineraries": [
+        {
+          "duration": "PT14H34M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T17:30:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T19:30:00"
+              },
+              "carrierCode": "TK",
+              "number": "282",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T21:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T06:30:00"
+              },
+              "carrierCode": "TK",
+              "number": "694",
+              "duration": "PT9H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "802.37"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "43",
+      "itineraries": [
+        {
+          "duration": "PT10H47M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T10:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T21:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "623",
+              "duration": "PT11H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "816.76"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "44",
+      "itineraries": [
+        {
+          "duration": "PT10H27M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:45:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T05:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "836",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T08:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T15:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "859",
+              "duration": "PT7H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "715.91"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "45",
+      "itineraries": [
+        {
+          "duration": "PT13H22M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T10:30:00"
+              },
+              "arrival": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T12:30:00"
+              },
+              "carrierCode": "DL",
+              "number": "407",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T15:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T00:30:00"
+              },
+              "carrierCode": "DL",
+              "number": "619",
+              "duration": "PT9H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "1028.91"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "46",
+      "itineraries": [
+        {
+          "duration": "PT11H17M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T09:15:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T13:15:00"
+              },
+              "carrierCode": "UA",
+              "number": "793",
+              "duration": "PT4H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T15:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T22:15:00"
+              },
+              "carrierCode": "UA",
+              "number": "866",
+              "duration": "PT7H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "803.49"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "47",
+      "itineraries": [
+        {
+          "duration": "PT11H42M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T00:30:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T03:30:00"
+              },
+              "carrierCode": "UA",
+              "number": "721",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T06:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T14:30:00"
+              },
+              "carrierCode": "UA",
+              "number": "770",
+              "duration": "PT8H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "805.01"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "48",
+      "itineraries": [
+        {
+          "duration": "PT13H56M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T16:45:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T20:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "774",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T21:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T04:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "186",
+              "duration": "PT7H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "916.20"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "49",
+      "itineraries": [
+        {
+          "duration": "PT13H24M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:15:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T04:15:00"
+              },
+              "carrierCode": "TK",
+              "number": "250",
+              "duration": "PT2H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T05:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T14:15:00"
+              },
+              "carrierCode": "TK",
+              "number": "125",
+              "duration": "PT9H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "892.95"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "50",
+      "itineraries": [
+        {
+          "duration": "PT10H40M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T13:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "744",
+              "duration": "PT11H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "889.65"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "51",
+      "itineraries": [
+        {
+          "duration": "PT13H20M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:15:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T09:15:00"
+              },
+              "carrierCode": "UA",
+              "number": "897",
+              "duration": "PT2H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T10:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T19:15:00"
+              },
+              "carrierCode": "UA",
+              "number": "535",
+              "duration": "PT9H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "841.43"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "52",
+      "itineraries": [
+        {
+          "duration": "PT10H57M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T12:15:00"
+              },
+              "carrierCode": "TK",
+              "number": "224",
+              "duration": "PT11H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "851.16"
+      },
+      "numberOfBookableSeats": 8
+    },
+    {
+      "id": "53",
+      "itineraries": [
+        {
+          "duration": "PT10H58M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T17:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T04:30:00"
+              },
+              "carrierCode": "UA",
+              "number": "553",
+              "duration": "PT11H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "912.88"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "54",
+      "itineraries": [
+        {
+          "duration": "PT12H25M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T05:45:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T07:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "383",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T10:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T19:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "884",
+              "duration": "PT9H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "821.44"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "55",
+      "itineraries": [
+        {
+          "duration": "PT11H28M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:30:00"
+              },
+              "arrival": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T05:30:00"
+              },
+              "carrierCode": "DL",
+              "number": "653",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "ACC",
+                "at": "2026-06-15T07:30:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T15:30:00"
+              },
+              "carrierCode": "DL",
+              "number": "182",
+              "duration": "PT8H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "750.77"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "56",
+      "itineraries": [
+        {
+          "duration": "PT10H29M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T22:15:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T09:15:00"
+              },
+              "carrierCode": "UA",
+              "number": "517",
+              "duration": "PT11H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "923.75"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "57",
+      "itineraries": [
+        {
+          "duration": "PT14H25M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T13:45:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T17:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "120",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T20:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T03:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "977",
+              "duration": "PT7H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "663.18"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "58",
+      "itineraries": [
+        {
+          "duration": "PT12H49M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T12:45:00"
+              },
+              "arrival": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T16:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "919",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "LGW",
+                "at": "2026-06-15T19:45:00"
+              },
+              "arrival": {
+                "iataCode": "JFK",
+                "at": "2026-06-15T02:45:00"
+              },
+              "carrierCode": "UA",
+              "number": "717",
+              "duration": "PT7H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "760.68"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "59",
+      "itineraries": [
+        {
+          "duration": "PT6H53M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T12:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T19:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "917",
+              "duration": "PT7H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "446.84"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "60",
+      "itineraries": [
+        {
+          "duration": "PT9H11M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:00:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T23:00:00"
+              },
+              "carrierCode": "QR",
+              "number": "778",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T02:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T05:00:00"
+              },
+              "carrierCode": "QR",
+              "number": "127",
+              "duration": "PT3H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "542.30"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "61",
+      "itineraries": [
+        {
+          "duration": "PT7H22M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T05:00:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T08:00:00"
+              },
+              "carrierCode": "EK",
+              "number": "565",
+              "duration": "PT3H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T09:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T13:00:00"
+              },
+              "carrierCode": "EK",
+              "number": "434",
+              "duration": "PT4H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "530.71"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "62",
+      "itineraries": [
+        {
+          "duration": "PT8H59M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T13:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T16:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "867",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T17:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T21:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "652",
+              "duration": "PT4H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "401.22"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "63",
+      "itineraries": [
+        {
+          "duration": "PT10H36M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T02:00:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T04:00:00"
+              },
+              "carrierCode": "QR",
+              "number": "959",
+              "duration": "PT2H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T05:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T07:00:00"
+              },
+              "carrierCode": "QR",
+              "number": "344",
+              "duration": "PT2H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T08:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T11:00:00"
+              },
+              "carrierCode": "QR",
+              "number": "229",
+              "duration": "PT3H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "389.33"
+      },
+      "numberOfBookableSeats": 8
+    },
+    {
+      "id": "64",
+      "itineraries": [
+        {
+          "duration": "PT8H47M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T14:30:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T16:30:00"
+              },
+              "carrierCode": "ET",
+              "number": "721",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T19:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T00:30:00"
+              },
+              "carrierCode": "ET",
+              "number": "865",
+              "duration": "PT5H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "548.51"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "65",
+      "itineraries": [
+        {
+          "duration": "PT9H15M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T03:00:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T07:00:00"
+              },
+              "carrierCode": "EK",
+              "number": "484",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T10:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T13:00:00"
+              },
+              "carrierCode": "EK",
+              "number": "506",
+              "duration": "PT3H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "552.24"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "66",
+      "itineraries": [
+        {
+          "duration": "PT6H53M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T07:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T14:00:00"
+              },
+              "carrierCode": "ET",
+              "number": "408",
+              "duration": "PT7H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "522.73"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "67",
+      "itineraries": [
+        {
+          "duration": "PT8H30M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T11:45:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T13:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "763",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T16:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T21:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "449",
+              "duration": "PT5H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "512.18"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "68",
+      "itineraries": [
+        {
+          "duration": "PT10H21M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T11:45:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T14:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "851",
+              "duration": "PT3H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T15:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T17:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "730",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T19:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T21:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "927",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "363.22"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "69",
+      "itineraries": [
+        {
+          "duration": "PT7H33M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T18:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T20:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "385",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T21:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T02:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "561",
+              "duration": "PT5H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "435.83"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "70",
+      "itineraries": [
+        {
+          "duration": "PT6H43M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T12:30:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T15:30:00"
+              },
+              "carrierCode": "ET",
+              "number": "599",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T16:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T20:30:00"
+              },
+              "carrierCode": "ET",
+              "number": "317",
+              "duration": "PT4H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "474.27"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "71",
+      "itineraries": [
+        {
+          "duration": "PT8H12M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T23:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "187",
+              "duration": "PT4H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T00:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T03:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "347",
+              "duration": "PT3H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "401.52"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "72",
+      "itineraries": [
+        {
+          "duration": "PT7H54M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T20:45:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T22:45:00"
+              },
+              "carrierCode": "EK",
+              "number": "401",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T23:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T04:45:00"
+              },
+              "carrierCode": "EK",
+              "number": "326",
+              "duration": "PT5H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "491.93"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "73",
+      "itineraries": [
+        {
+          "duration": "PT8H11M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T11:45:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T14:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "863",
+              "duration": "PT3H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T16:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T20:45:00"
+              },
+              "carrierCode": "QR",
+              "number": "663",
+              "duration": "PT4H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "486.07"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "74",
+      "itineraries": [
+        {
+          "duration": "PT6H59M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T08:15:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T10:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "222",
+              "duration": "PT2H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T12:15:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T17:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "860",
+              "duration": "PT5H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "399.60"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "75",
+      "itineraries": [
+        {
+          "duration": "PT8H6M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T06:45:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T10:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "711",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T13:45:00"
+              },
+              "arrival": {
+                "iataCode": "NBO",
+                "at": "2026-06-15T14:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "952",
+              "duration": "PT1H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "NBO",
+                "at": "2026-06-15T15:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T17:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "298",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "380.73"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "76",
+      "itineraries": [
+        {
+          "duration": "PT6H44M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T22:15:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T05:15:00"
+              },
+              "carrierCode": "EK",
+              "number": "155",
+              "duration": "PT7H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "406.50"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "77",
+      "itineraries": [
+        {
+          "duration": "PT6H57M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T15:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T22:00:00"
+              },
+              "carrierCode": "EK",
+              "number": "687",
+              "duration": "PT7H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "480.33"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "78",
+      "itineraries": [
+        {
+          "duration": "PT9H17M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:30:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T04:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "941",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T05:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T09:30:00"
+              },
+              "carrierCode": "QR",
+              "number": "166",
+              "duration": "PT4H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "414.96"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "79",
+      "itineraries": [
+        {
+          "duration": "PT7H4M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T01:15:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T05:15:00"
+              },
+              "carrierCode": "ET",
+              "number": "187",
+              "duration": "PT4H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T07:15:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T10:15:00"
+              },
+              "carrierCode": "ET",
+              "number": "354",
+              "duration": "PT3H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "478.48"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "80",
+      "itineraries": [
+        {
+          "duration": "PT8H49M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:15:00"
+              },
+              "arrival": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T22:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "553",
+              "duration": "PT3H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "DOH",
+                "at": "2026-06-15T00:15:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T04:15:00"
+              },
+              "carrierCode": "QR",
+              "number": "404",
+              "duration": "PT4H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "473.39"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "81",
+      "itineraries": [
+        {
+          "duration": "PT6H52M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T03:15:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T10:15:00"
+              },
+              "carrierCode": "ET",
+              "number": "370",
+              "duration": "PT7H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "353.25"
+      },
+      "numberOfBookableSeats": 2
+    },
+    {
+      "id": "82",
+      "itineraries": [
+        {
+          "duration": "PT6H47M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T05:00:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T12:00:00"
+              },
+              "carrierCode": "EK",
+              "number": "805",
+              "duration": "PT7H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "461.44"
+      },
+      "numberOfBookableSeats": 8
+    },
+    {
+      "id": "83",
+      "itineraries": [
+        {
+          "duration": "PT6H40M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T09:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T16:45:00"
+              },
+              "carrierCode": "EK",
+              "number": "339",
+              "duration": "PT7H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "403.38"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "84",
+      "itineraries": [
+        {
+          "duration": "PT6H58M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T06:45:00"
+              },
+              "arrival": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T08:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "252",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "ADD",
+                "at": "2026-06-15T11:45:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T16:45:00"
+              },
+              "carrierCode": "ET",
+              "number": "372",
+              "duration": "PT5H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "469.75"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "85",
+      "itineraries": [
+        {
+          "duration": "PT6H48M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:30:00"
+              },
+              "arrival": {
+                "iataCode": "DXB",
+                "at": "2026-06-15T02:30:00"
+              },
+              "carrierCode": "EK",
+              "number": "579",
+              "duration": "PT7H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "514.38"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "86",
+      "itineraries": [
+        {
+          "duration": "PT8H23M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T14:00:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T17:00:00"
+              },
+              "carrierCode": "KL",
+              "number": "430",
+              "duration": "PT3H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T20:00:00"
+              },
+              "arrival": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T21:00:00"
+              },
+              "carrierCode": "KL",
+              "number": "126",
+              "duration": "PT1H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T23:00:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T01:00:00"
+              },
+              "carrierCode": "KL",
+              "number": "193",
+              "duration": "PT2H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "516.15"
+      },
+      "numberOfBookableSeats": 4
+    },
+    {
+      "id": "87",
+      "itineraries": [
+        {
+          "duration": "PT8H17M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T00:30:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T02:30:00"
+              },
+              "carrierCode": "KL",
+              "number": "631",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T04:30:00"
+              },
+              "arrival": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T06:30:00"
+              },
+              "carrierCode": "KL",
+              "number": "384",
+              "duration": "PT2H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T08:30:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T10:30:00"
+              },
+              "carrierCode": "KL",
+              "number": "285",
+              "duration": "PT2H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "527.81"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "88",
+      "itineraries": [
+        {
+          "duration": "PT6H40M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T15:30:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T18:30:00"
+              },
+              "carrierCode": "TK",
+              "number": "207",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T21:30:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T00:30:00"
+              },
+              "carrierCode": "TK",
+              "number": "978",
+              "duration": "PT3H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "622.34"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "89",
+      "itineraries": [
+        {
+          "duration": "PT5H56M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T21:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T03:45:00"
+              },
+              "carrierCode": "KL",
+              "number": "663",
+              "duration": "PT6H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "505.13"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "90",
+      "itineraries": [
+        {
+          "duration": "PT7H46M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T03:45:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T05:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "990",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T08:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T12:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "655",
+              "duration": "PT4H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "444.97"
+      },
+      "numberOfBookableSeats": 8
+    },
+    {
+      "id": "91",
+      "itineraries": [
+        {
+          "duration": "PT7H12M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T19:45:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T21:45:00"
+              },
+              "carrierCode": "AF",
+              "number": "373",
+              "duration": "PT2H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T22:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T02:45:00"
+              },
+              "carrierCode": "AF",
+              "number": "662",
+              "duration": "PT4H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "510.81"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "92",
+      "itineraries": [
+        {
+          "duration": "PT5H49M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T15:00:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T19:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "918",
+              "duration": "PT4H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T22:00:00"
+              },
+              "arrival": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T23:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "418",
+              "duration": "PT1H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "FRA",
+                "at": "2026-06-15T00:00:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T01:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "664",
+              "duration": "PT1H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "600.51"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "93",
+      "itineraries": [
+        {
+          "duration": "PT7H58M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T03:45:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T07:45:00"
+              },
+              "carrierCode": "AF",
+              "number": "610",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T08:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T10:45:00"
+              },
+              "carrierCode": "AF",
+              "number": "833",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "438.11"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "94",
+      "itineraries": [
+        {
+          "duration": "PT6H17M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T15:45:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T19:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "492",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T20:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T22:45:00"
+              },
+              "carrierCode": "TK",
+              "number": "295",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "485.33"
+      },
+      "numberOfBookableSeats": 9
+    },
+    {
+      "id": "95",
+      "itineraries": [
+        {
+          "duration": "PT6H30M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T08:45:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T12:45:00"
+              },
+              "carrierCode": "AF",
+              "number": "940",
+              "duration": "PT4H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T14:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T16:45:00"
+              },
+              "carrierCode": "AF",
+              "number": "102",
+              "duration": "PT2H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "596.35"
+      },
+      "numberOfBookableSeats": 5
+    },
+    {
+      "id": "96",
+      "itineraries": [
+        {
+          "duration": "PT7H46M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T21:45:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T00:45:00"
+              },
+              "carrierCode": "KL",
+              "number": "595",
+              "duration": "PT3H45M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T03:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T06:45:00"
+              },
+              "carrierCode": "KL",
+              "number": "453",
+              "duration": "PT3H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "526.03"
+      },
+      "numberOfBookableSeats": 6
+    },
+    {
+      "id": "97",
+      "itineraries": [
+        {
+          "duration": "PT8H3M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T10:15:00"
+              },
+              "arrival": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T12:15:00"
+              },
+              "carrierCode": "KL",
+              "number": "492",
+              "duration": "PT2H15M"
+            },
+            {
+              "departure": {
+                "iataCode": "AMS",
+                "at": "2026-06-15T15:15:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T19:15:00"
+              },
+              "carrierCode": "KL",
+              "number": "339",
+              "duration": "PT4H15M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "475.86"
+      },
+      "numberOfBookableSeats": 7
+    },
+    {
+      "id": "98",
+      "itineraries": [
+        {
+          "duration": "PT5H59M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T12:45:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T18:45:00"
+              },
+              "carrierCode": "KL",
+              "number": "911",
+              "duration": "PT6H45M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "499.56"
+      },
+      "numberOfBookableSeats": 3
+    },
+    {
+      "id": "99",
+      "itineraries": [
+        {
+          "duration": "PT7H47M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T18:30:00"
+              },
+              "arrival": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T21:30:00"
+              },
+              "carrierCode": "AF",
+              "number": "638",
+              "duration": "PT3H30M"
+            },
+            {
+              "departure": {
+                "iataCode": "CAI",
+                "at": "2026-06-15T22:30:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T01:30:00"
+              },
+              "carrierCode": "AF",
+              "number": "567",
+              "duration": "PT3H30M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "413.75"
+      },
+      "numberOfBookableSeats": 1
+    },
+    {
+      "id": "100",
+      "itineraries": [
+        {
+          "duration": "PT6H49M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "LOS",
+                "at": "2026-06-15T04:00:00"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-06-15T07:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "738",
+              "duration": "PT3H0M"
+            },
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-06-15T09:00:00"
+              },
+              "arrival": {
+                "iataCode": "CDG",
+                "at": "2026-06-15T12:00:00"
+              },
+              "carrierCode": "TK",
+              "number": "809",
+              "duration": "PT3H0M"
+            }
+          ]
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "total": "598.06"
+      },
+      "numberOfBookableSeats": 7
+    }
+  ],
+  "meta": {
+    "count": 100
+  }
+}
